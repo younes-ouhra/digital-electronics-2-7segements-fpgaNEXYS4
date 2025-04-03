@@ -4,4 +4,4 @@ This project was built along with the Laboratory Digital Electronics at the Tech
 
 ## Simulation
 
-[fpga-2-segement-display-simulation.mp4](https://github.com/younes-ouhra/digital-electronics-2-7segements-fpgaNEXYS4/blob/main/fpga-2-segement-display-simulation.mp4)
+
