@@ -2,6 +2,10 @@
 ## About
 This project was built along with the Laboratory Digital Electronics at the Technical University of Applied Sciences of Regensburg, Bavaria, Germany. It is about modifying the status of the first four Slide switches U9, U8, R7 and R8 (with U9 as the least significant bit (LSB)) and display the appropriate decimal value on the 2 first 7-segment-Dispaly of the FPGA-Board.
 
-## Simulation
+## Simulati
+
+https://github.com/user-attachments/assets/7ce6b5d4-8594-443d-9f5c-f0e502d27000
+
+on
 
 
