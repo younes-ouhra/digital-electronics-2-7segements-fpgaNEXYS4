@@ -3,16 +3,16 @@ use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_UNSIGNED.ALL;
 USE ieee.numeric_std.ALL; 
 
-entity Bspl7_2SevenSegment is
+entity TwoSevenSegment is
 Port (
         SWs : in STD_LOGIC_VECTOR(3 downto 0);
         clk : in STD_LOGIC;
         ANODES : out STD_LOGIC_VECTOR(7 downto 0);
         CATHODES : out STD_LOGIC_VECTOR(6 downto 0)
         );
-end Bspl7_2SevenSegment;
+end TwoSevenSegment;
 
-architecture Behavioral of Bspl7_2SevenSegment is
+architecture Behavioral of TwoSevenSegment is
     signal Zahl : INTEGER := 0;
     signal intZahl : INTEGER range 0 to 9;
     
