@@ -4,8 +4,6 @@ This project was built along with the Laboratory Digital Electronics at the Tech
 
 ## Simulation
 
-<video width="320" height="270" controls autoplay>
-
-<source src="[fpga-2-segement-display-simulation.mp4](https://drive.google.com/file/d/1dkgsrQUch5lYWxg4DjkSw5CFeCnZWGCh/view?usp=drive_link)" type="video/mp4“></source>
+<video src="[fpga-2-segement-display-simulation.mp4](https://drive.google.com/file/d/1dkgsrQUch5lYWxg4DjkSw5CFeCnZWGCh/view?usp=drive_link)">
 
 </video>
