@@ -5,4 +5,6 @@ This project was built along with the Laboratory Digital Electronics at the Tech
 ## Simulation
 In the following video, you can see how the output (the decimal number from 1 to 15 shown on two 7-segment displays) changes depending on the status of the input switches.
 
-https://github.com/user-attachments/assets/7ce6b5d4-8594-443d-9f5c-f0e502d27000
+<div align="center">
+<p>https://github.com/user-attachments/assets/7ce6b5d4-8594-443d-9f5c-f0e502d27000</p>
+</div>
